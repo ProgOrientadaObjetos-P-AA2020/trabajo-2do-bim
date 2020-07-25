@@ -24,10 +24,10 @@ El pasaje intercantonal tiene la siguientes: nombre-pasajero (tipo **Persona**),
 
 En una clase Principal usted debe:
 
-* Generar un método main que permita ingresar múltiples tipos de objetos de pasajes de transporte con la información por teclado (hasta que el usuario decida); guardar en un estructura ArrayList.
-* Se debe calcular el valor del pasaje de acuerdo a su contexto.
-* Guardar la información de cada objeto en un archivo serializado.
-* Obtener la información del archivo serializado y presentar la información de cada objeto haciendo uso del método toString()
+* **Generar** un método main que permita ingresar múltiples tipos de objetos de pasajes de transporte con la información por teclado (hasta que el usuario decida); guardar en un estructura ArrayList.
+* Se debe **calcular el valor** del pasaje de acuerdo a su contexto.
+* **Guardar** la información de cada objeto en un archivo serializado.
+* **Obtener** la información del archivo serializado y presentar la información de cada objeto haciendo uso del método toString()
 
 **Recomendaciones**
 
